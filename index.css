@@ -1,0 +1,166 @@
+.first{
+    background-color: #021d49;
+    color: white;
+    display: flex;
+     justify-content: center;
+}
+
+
+
+
+.text1{
+    
+   color: #021d49;
+    font-size: 30px;
+    margin-left: 150px;
+}
+.text2{
+    text-align: right;
+    background-color:#ff4700;
+    border: solid black;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 29px;
+    border-radius: 7px;
+    position: absolute;
+    top: 30px;
+    color: white;
+    right:  100px;
+   
+    
+    
+}
+.text{
+    color: #021d49;
+    position: absolute;
+    top: 150px;
+    left: 155px;
+    width: 400px;
+    font-size: 39px;
+
+}
+div img{
+    right: 120px;
+    top: 65px;
+    position: absolute;
+    rotate: 180deg;
+
+}
+div img:hover{
+    right: 120px;
+    top: 65px;
+    position: absolute;
+    rotate: 1deg;
+
+}
+div img{
+    transition: width 2s, height 4s;
+  }
+.second{
+    color: #021d49;
+    position: absolute;
+    top: 250px;
+    font-size: 16px;
+    left: 155px;
+    width: 400px;
+}
+.checked{
+    color: orange;
+    
+ 
+}
+.rating{
+    color: #021d49;
+    position: absolute;
+    top: 300px;
+    font-size: 16px;
+    left: 165px;
+
+}
+button{
+    position: absolute;
+    top: 325px;
+    background-color: #ff4700;
+    color: white;
+    width: 325px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 16px;
+    left: 150px;
+
+}
+button{
+    transition: width 2s, height 4s;
+  }
+  button:hover{
+    rotate: 1deg;
+  }
+.FREE{
+    color: #021d49;
+    position: absolute;
+    height: 50px;
+    top: 400px;
+    font-size: 16px;
+    left: 250px;
+
+}
+.day{
+    color: #021d49;
+    position: absolute;
+    height: 50px;
+    top: 425px;
+    font-size: 16px;
+    left: 175px;
+
+}
+.mainpic{
+    position: absolute;
+    width: 1500px;
+    height: 100px;
+    background-color: #021d49;
+    bottom: 170px;
+}
+.img1{
+    top: 2px;
+    position: absolute;
+    rotate: 1deg;
+    bottom: 20px;
+    right: 1200px;
+}
+.img2{
+    top: 2px;
+    position: absolute;
+    rotate: 1deg;
+    bottom: 20px;
+    right: 1000px;
+}
+.img3{
+    top: 2px;
+    position: absolute;
+    rotate: 1deg;
+    bottom: 20px;
+    right: 800px;
+}
+.img4{
+    top: 2px;
+    position: absolute;
+    rotate: 1deg;
+    bottom: 20px;
+    right: 600px;
+}
+.img5{
+    top: 2px;
+    position: absolute;
+    rotate: 1deg;
+    bottom: 20px;
+    right: 400px;
+}
+.img6{
+    top: 2px;
+    position: absolute;
+    rotate: 1deg;
+    bottom: 20px;
+    right: 200px;
+}
